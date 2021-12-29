@@ -1,1 +1,1 @@
-'# Super Tamagotchi' 
+# Super Tamagotchi
