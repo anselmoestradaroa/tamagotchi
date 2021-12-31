@@ -12,6 +12,8 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("Hola mndo");
+	printf("Hola mundo,\n");
+	printf("Ahora pude conectar Git con eclipse, jajaja");
+	printf("Ahora voy a hacer un push al repositorio");
 	return 0;
 }
